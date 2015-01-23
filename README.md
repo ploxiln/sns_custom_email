@@ -1,6 +1,8 @@
 SNS Custom Email CGI
 ===================
 
+**No longer maintained** - I no longer use this (but it's still somewhat interesting)
+
 ## What
 
 This is a CGI (common gateway interface) script (to be run by a webserver) that works as an HTTP
